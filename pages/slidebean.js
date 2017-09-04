@@ -1,6 +1,11 @@
 import Link from 'next/link'
 export default () => (
   <div>
+    <style jsx>{`
+      h1 {
+        color: blue;
+      }
+    `}</style>
     <h1>Slidebean</h1>
     <Link href='/'><a>Home</a></Link>
     <br />
