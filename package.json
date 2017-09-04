@@ -7,6 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "cowsay-browser": "^1.1.8",
     "next": "latest",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"

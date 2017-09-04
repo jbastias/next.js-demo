@@ -10,5 +10,7 @@ export default () => (
     <Link href='/'><a>Home</a></Link>
     <br />
     <Link href='/about'><a>About</a></Link>
+    <br />
+    <Link href='/cowsay'><a>Cowsay</a></Link>
   </div>
 )
